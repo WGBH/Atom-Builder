@@ -1,0 +1,1 @@
+init moviecreate particle wellsset gWell = new(script "well", [#upQuarks:18, #downQuarks:18, #electrons:9])
